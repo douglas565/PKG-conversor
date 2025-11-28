@@ -18,6 +18,10 @@ Este software permite extrair **todos os arquivos** contidos em pacotes PKG do P
 - ✅ Exportação de relatório JSON com informações da extração
 - ✅ Otimizado para não consumir muita memória RAM
 
+## Visual:
+![preview](https://github.com/user-attachments/assets/8b203ba6-81d3-4217-b08e-d9846ba83bd2)
+
+
 ## 🎯 Arquivos Extraídos
 
 ### Estrutura de Diretórios PS4:
